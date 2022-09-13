@@ -18,7 +18,7 @@ Atualmente na versão 7.0 a informação encontra-se no menu *API*. Ao entrar na
 ## Recuperando payee_code
 A biblioteca pode ser utilizada em qualquer framework que utilize o typescript ou o javascript no browser.
 
-> Instânciando SDK
+> Exemplo de uso da SDK
 
 ```ts
 import { GerencianetCartao } from 'gerencianet-cartao-ts';
@@ -34,3 +34,7 @@ class MinhaClasse {
         return retorno.payment_token;
     }
 }
+```
+
+# Licença
+[MIT](https://mit-license.org/)
