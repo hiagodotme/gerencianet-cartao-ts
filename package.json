@@ -1,0 +1,25 @@
+{
+  "name": "gerencianet-cartao-ts",
+  "version": "1.0.0",
+  "description": "SDK criada para facilitar a obtenção do payment_token exigido nas API's de cartão da Gerencianet",
+  "main": "dist/index.js",
+  "types": "dist/index.d.js",
+  "scripts": {
+    "build": "tsc --build"
+  },
+  "keywords": [
+    "gerencianet",
+    "angular",
+    "typescript",
+    "sdk"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/hiagodotme/gerencianet-cartao-ts.git"
+  },
+  "author": "Hiago Silva Souza",
+  "license": "MIT",
+  "devDependencies": {
+    "typescript": "^4.8.3"
+  }
+}
