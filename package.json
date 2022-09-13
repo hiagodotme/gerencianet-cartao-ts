@@ -1,6 +1,6 @@
 {
   "name": "gerencianet-cartao-ts",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "SDK criada para facilitar a obtenção do payment_token exigido nas API's de cartão da Gerencianet",
   "main": "dist/index.js",
   "types": "dist/index.d.js",

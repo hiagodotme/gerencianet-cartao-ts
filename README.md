@@ -16,7 +16,7 @@ Para utilizar a biblioteca é necessário obter o identificador de sua conta.
 
 Atualmente na versão 7.0 a informação encontra-se no menu _API_. Ao entrar na tela, procure pelo botão "Identificador de conta". Uma modal será aberta e a informação será exibida.
 
-## Recuperando payee_code
+## Recuperando payment_token
 
 A biblioteca pode ser utilizada em qualquer framework que utilize o typescript ou o javascript no browser.
 
